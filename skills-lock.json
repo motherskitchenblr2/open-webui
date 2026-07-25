@@ -1,0 +1,45 @@
+{
+  "version": 1,
+  "skills": {
+    "qwencloud-audio-tts": {
+      "source": "qwencloud/qwencloud-ai",
+      "sourceType": "github",
+      "computedHash": "97dcc4bb47e637eb07e0ea4c05454aac6b46ba263ec2dbda709bda5518c6cc9b"
+    },
+    "qwencloud-image-generation": {
+      "source": "qwencloud/qwencloud-ai",
+      "sourceType": "github",
+      "computedHash": "089f2db4bb85002275633fb461a49dccc2475f74cef2c185d941ddb71ac933a6"
+    },
+    "qwencloud-model-selector": {
+      "source": "qwencloud/qwencloud-ai",
+      "sourceType": "github",
+      "computedHash": "9a28203df9a617cc7b9ac9704f6f1b7c6ebf59ee3fae570adbc923af54bbacc2"
+    },
+    "qwencloud-ops-auth": {
+      "source": "qwencloud/qwencloud-ai",
+      "sourceType": "github",
+      "computedHash": "a92b5b31576063d43542c874cd96c48a79c6833102617f2ea52e0f70e215354e"
+    },
+    "qwencloud-text": {
+      "source": "qwencloud/qwencloud-ai",
+      "sourceType": "github",
+      "computedHash": "43f1bb4621946f6d8e718b26fd0938d0c317d73879e06c3e3317640aa70ade04"
+    },
+    "qwencloud-update-check": {
+      "source": "qwencloud/qwencloud-ai",
+      "sourceType": "github",
+      "computedHash": "19bbccdae29f0895c6bb7f1922cb42e19ae6ed735527374dbf205ba2f026fa86"
+    },
+    "qwencloud-video-generation": {
+      "source": "qwencloud/qwencloud-ai",
+      "sourceType": "github",
+      "computedHash": "43c8e828ff33da0bb34aeb87514c702b6dbf5e9118f82fe5f9200fb28c739f9e"
+    },
+    "qwencloud-vision": {
+      "source": "qwencloud/qwencloud-ai",
+      "sourceType": "github",
+      "computedHash": "08ee70171a8378d020e7ad4454835d53c904dd3c318934298d5411d5d6dfff44"
+    }
+  }
+}
