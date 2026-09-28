@@ -3220,8 +3220,8 @@ requires-dist = [
     { name = "starsessions", extras = ["redis"], specifier = "==2.2.1" },
     { name = "tiktoken", specifier = "==0.13.0" },
     { name = "transformers", specifier = "==5.5.4" },
-    { name = "unstructured", marker = "extra == 'all'", specifier = "==0.22.31" },
-    { name = "unstructured", marker = "extra == 'unstructured'", specifier = "==0.22.31" },
+    { name = "unstructured", marker = "extra == 'all'", specifier = "==0.24.0" },
+    { name = "unstructured", marker = "extra == 'unstructured'", specifier = "==0.24.0" },
     { name = "uvicorn", extras = ["standard"], specifier = "==0.41.0" },
     { name = "validators", specifier = "==0.35.0" },
     { name = "weaviate-client", marker = "extra == 'all'", specifier = "==4.20.3" },
@@ -5710,7 +5710,7 @@ wheels = [
 
 [[package]]
 name = "unstructured"
-version = "0.22.31"
+version = "0.24.0"
 source = { registry = "https://pypi.org/simple" }
 dependencies = [
     { name = "beautifulsoup4" },
@@ -5737,9 +5737,9 @@ dependencies = [
     { name = "unstructured-client" },
     { name = "wrapt" },
 ]
-sdist = { url = "https://files.pythonhosted.org/packages/a1/e0/218d92e6bcabcfb13a3379903f0ddb14cc4cbba640817d7fd07ae1cfa6e4/unstructured-0.22.31.tar.gz", hash = "sha256:8b43671b9ed06bbcad2f322cdc79d6fc68a01bd3b7c25ab6e0102c9e0ad0d883", size = 1525829, upload-time = "2026-05-23T22:34:48.609Z" }
+sdist = { url = "https://files.pythonhosted.org/packages/62/a6/50f7dbc289bf617ae2850a7c16a3c4a8c5566599053a5cdabaeb6fd38a32/unstructured-0.24.0.tar.gz", hash = "sha256:23824fc1628109aa8c3fd03ac1423c5056e1d80e8357bfd76c03aa5b5b614837", size = 1535977, upload-time = "2026-07-06T22:43:07.724Z" }
 wheels = [
-    { url = "https://files.pythonhosted.org/packages/50/5c/78bee42ea2227e2d2751a3839a817671391b1724e590cbab7105f2aa6e7b/unstructured-0.22.31-py3-none-any.whl", hash = "sha256:b8032434b9efc3d84cd500ed7ae1e4827e34475d8ec953b721995458fbdbcb41", size = 1583371, upload-time = "2026-05-23T22:34:46.142Z" },
+    { url = "https://files.pythonhosted.org/packages/f6/83/8f23fa23ea8c0c507e7896dc32662b18f0e9244b5fdedcbc0321d8d87089/unstructured-0.24.0-py3-none-any.whl", hash = "sha256:8f98b2f1be057acff67df7be3a8a2b69a3e09c4543beb923ffa42d15d057d1b0", size = 1594662, upload-time = "2026-07-06T22:43:05.855Z" },
 ]
 
 [[package]]
